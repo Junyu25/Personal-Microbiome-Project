@@ -1,9 +1,9 @@
 # Personal-Microbiome-Project
 My Personal Microbiome Project
 
-![](img/HumanMicrobiome_draft.png)
+<img src="img/HumanMicrobiome_draft.png" width="500"/>
 
 
 Diet Record
 
-<img src="/img/diet-record.jpg" width="500"/>
+<img src="/img/diet-record.jpg" width="400"/>
