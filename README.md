@@ -3,7 +3,7 @@ My Personal Microbiome Project
 
 <img src="img/HumanMicrobiome_draft.png" width="500"/>
 
+[Diet Record](img/diet-record.jpg)
 
-Diet Record
-
-<img src="/img/diet-record.jpg" width="400"/>
+## Analysis
+### Amplicon Sequecing
